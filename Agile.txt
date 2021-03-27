@@ -1,0 +1,16 @@
+Recipe Suggestion App 
+Agile Software development Appoch:
+A] Requirements 
+
+1)Android Studio
+2)Database -MySql/SqlLite-------->a)Different Type of Recipes.
+				  b)Basic Ingredents.
+				  c)Procedure Text/Videos.
+3)Machine Learning.
+
+
+
+
+
+
+  

@@ -1,0 +1,22 @@
+Features :
+A] Version 1.0
+
+1) Display Available racipes and it's picture in scrolable formate just like instagram post.
+2) If any user wants to add recipe procedure and it's video then click on "Add Recipe"/"Post Recipe" Button.
+3) That Recipe add in database and will display on secound activity just like post.  
+3) Get the list of available ingredents from users when click on "+" tooglebutton .
+4) search the available recipes in the database.
+5) Suggest the recipe Procedure in Text/Video format.
+
+
+* Integrate one userfriendly chatbot 
+ 
+
+B] Version 2.0
+
+1) Display catagaries --->a)Maharashtrian Food
+			  b)Punjabi Food
+			  c)Gujrati Food
+                          d)parsi Food ,etc.
+ 
+
