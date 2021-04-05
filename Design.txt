@@ -1,0 +1,19 @@
+1) First Activity -App logo and slogen (flash screen)
+
+2) secound Activity --->a)serach bar ---> search the recipe 
+			b)Display recipes ---> 1)In scrool down manner  
+					       2)recipe image and name ---> when click on image -->forth Activity open
+
+			C)Floting action button --->open Ingrident activity.
+			d)chatbot--->make app userfriendly, give instruction/help user to use app.
+
+3)Third Activity ---->Add Ingrident --->1)Dispaly category of components --->select catagory having dropdown feature.--->Ingrident name checkbox 
+					2)when user tap on ingrident name items will be selected.
+					3)when click on add button ingridents will add to Ingridents list
+							
+
+				
+4)Fourth Activity--->Display recipe Ingridents ,How to make it--->procedure (in word) if possible add video   
+
+
+
