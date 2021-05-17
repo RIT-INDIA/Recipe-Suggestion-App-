@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Let\'s Cook</string>
+    <string-array name="Vegetable">
+        <item>Tomato</item>
+        <item>Onion</item>
+        <item>Potato</item>
+        <item>Sweet Potato</item>
+        <item>Pumpkin</item>
+        <item>Garlic</item>
+        <item>Ginger</item>
+        <item>Green chilli</item>
+        <item>Radish</item>
+    </string-array>
+    <string-array name="Dairy">
+        <item>Milk</item>
+        <item>Cheese</item>
+        <item>Butter</item>
+        <item>Ice Cream</item>
+        <item>Yogurt</item>
+        <item>Ice cream</item>
+
+    </string-array>
+
+    <string-array name="Fruits">
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Mango</item>
+        <item>Strowbary</item>
+        <item>Guava</item>
+        <item>Grapes</item>
+
+    </string-array>
+    <string-array name="Meats">
+        <item>Cattle (cow or bull)</item>
+        <item>Calf (young cow)
+</item>
+        <item>Pig	Pork
+</item>
+        <item>Deer
+</item>
+        <item>Sheep (Ram or Ewe)
+</item>
+        <item>Pigeon
+</item>
+<item>Water Buffalo
+</item>
+        <item>Goat
+</item>
+        <item>Chicken</item>
+    </string-array>
+    <string name="dialog_title1">Vegetables</string>
+<string name="dialog_title2">Dairy</string>
+    <string name="dialog_title3">Fruits</string>
+    <string name="dialog_title4">Meats</string>
+    <string name="ok_label">OK</string>
+<string name="dismiss_label">DISMISS</string>
+    <string name="clear_all_label">CLEAR ALL</string>
+
+</resources>
